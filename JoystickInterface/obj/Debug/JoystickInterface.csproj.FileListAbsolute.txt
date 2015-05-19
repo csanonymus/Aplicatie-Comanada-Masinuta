@@ -1,0 +1,14 @@
+E:\Proiect ROBOCAR\RoboCar-C-Sharp-Application-master\JoystickInterface\obj\Debug\JoystickInterface.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\RoboCar-C-Sharp-Application-master\JoystickInterface\bin\Debug\JoystickInterface.XML
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\RoboCar-C-Sharp-Application-master\JoystickInterface\bin\Debug\JoystickInterface.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\RoboCar-C-Sharp-Application-master\JoystickInterface\bin\Debug\JoystickInterface.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\RoboCar-C-Sharp-Application-master\JoystickInterface\obj\Debug\JoystickInterface.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\RoboCar-C-Sharp-Application-master\JoystickInterface\obj\Debug\JoystickInterface.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\RoboCar-C-Sharp-Application-master\JoystickInterface\obj\Debug\JoystickInterface.csprojResolveAssemblyReference.cache
+C:\Users\marius\Desktop\RoboCar-C-Sharp-Application-master\JoystickInterface\bin\Debug\JoystickInterface.dll.config
+C:\Users\marius\Desktop\RoboCar-C-Sharp-Application-master\JoystickInterface\bin\Debug\JoystickInterface.XML
+C:\Users\marius\Desktop\RoboCar-C-Sharp-Application-master\JoystickInterface\bin\Debug\JoystickInterface.dll
+C:\Users\marius\Desktop\RoboCar-C-Sharp-Application-master\JoystickInterface\bin\Debug\JoystickInterface.pdb
+C:\Users\marius\Desktop\RoboCar-C-Sharp-Application-master\JoystickInterface\obj\Debug\JoystickInterface.csprojResolveAssemblyReference.cache
+C:\Users\marius\Desktop\RoboCar-C-Sharp-Application-master\JoystickInterface\obj\Debug\JoystickInterface.dll
+C:\Users\marius\Desktop\RoboCar-C-Sharp-Application-master\JoystickInterface\obj\Debug\JoystickInterface.pdb
